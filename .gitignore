@@ -72,3 +72,8 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# FMOD ignores
+Plugins/FMODStudio/Docs
+Plugins/FMODStudio/Intermediate
+Plugins/FMODStudio/Resources
