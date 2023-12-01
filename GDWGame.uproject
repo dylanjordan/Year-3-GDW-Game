@@ -15,5 +15,8 @@
 			"Name": "FMODStudio",
 			"Enabled": false
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	]
 }
