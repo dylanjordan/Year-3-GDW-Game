@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="Workspace" id="{3889d699-505d-4d7c-9f4f-76f5d5e1e4cf}">
+		<property name="builtBanksOutputDirectory">
+			<value>C:/Users/willi/Documents/GitHub/Year-3-GDW-Game/Content/FMOD</value>
+		</property>
+		<relationship name="masterEventFolder">
+			<destination>{700747ed-df47-41ef-91bf-cd481c9cc761}</destination>
+		</relationship>
+		<relationship name="masterTagFolder">
+			<destination>{3f88ee45-179e-481d-bdd8-85ff031e8541}</destination>
+		</relationship>
+		<relationship name="masterEffectPresetFolder">
+			<destination>{d7788cea-11a2-4a68-bd9a-2c4ec391990c}</destination>
+		</relationship>
+		<relationship name="masterParameterPresetFolder">
+			<destination>{28bf4c7b-9a8d-40f2-b4c5-6b99e649c612}</destination>
+		</relationship>
+		<relationship name="masterBankFolder">
+			<destination>{cbc6c09d-d608-4ff4-8672-6f3f56835550}</destination>
+		</relationship>
+		<relationship name="masterSandboxFolder">
+			<destination>{d70c2e04-fe56-419d-a6d5-e82120c427e7}</destination>
+		</relationship>
+		<relationship name="masterAssetFolder">
+			<destination>{3392b533-d683-40f8-b774-a71e6bcf2df6}</destination>
+		</relationship>
+		<relationship name="mixer">
+			<destination>{fad4e7ba-aad3-4141-b395-eae46bfb2b2b}</destination>
+		</relationship>
+		<relationship name="profilerSessionFolder">
+			<destination>{3acb9980-9375-4e60-9320-2eaa87a810e9}</destination>
+		</relationship>
+		<relationship name="platforms">
+			<destination>{1be2eb73-77e5-4386-a071-60e3c314be26}</destination>
+		</relationship>
+	</object>
+</objects>

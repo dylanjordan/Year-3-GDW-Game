@@ -23,7 +23,6 @@
 *.lai
 *.la
 *.a
-*.lib
 
 # Executables
 *.exe
@@ -70,5 +69,18 @@ Saved/*
 Intermediate/*
 Plugins/*/Intermediate/*
 
-# Cache files for the editor to use
-DerivedDataCache/*s
+#FMOD garbage
+Content/FMOD/*
+!/Content/FMOD/Desktop/
+!/Plugins/FMODStudio/Binaries/Win64/*
+!/Plugins/FMODStudioNiagara/Binaries/Win64/*
+Plugins/*/Docs/
+Plugins/*/Intermediate/
+Plugins/*/Resources/
+!/Plugins/FMODStudio/Binaries/*
+!/Plugins/FMODStudioNiagara/Binaries/*
+
+!*.uplugin
+
+fmod_editor.log
+

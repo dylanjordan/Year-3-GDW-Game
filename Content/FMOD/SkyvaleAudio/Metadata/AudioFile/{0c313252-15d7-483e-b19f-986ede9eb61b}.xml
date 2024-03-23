@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{0c313252-15d7-483e-b19f-986ede9eb61b}">
+		<property name="assetPath">
+			<value>Sound Effects/Sword/Hit/HitFinal.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.37875283446712016</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3392b533-d683-40f8-b774-a71e6bcf2df6}</destination>
+		</relationship>
+	</object>
+</objects>

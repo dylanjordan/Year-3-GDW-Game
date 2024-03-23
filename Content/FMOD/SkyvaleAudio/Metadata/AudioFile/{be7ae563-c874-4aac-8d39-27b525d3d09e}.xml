@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{be7ae563-c874-4aac-8d39-27b525d3d09e}">
+		<property name="assetPath">
+			<value>Music/Combat_lighterdrums.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>75.003582766439905</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3392b533-d683-40f8-b774-a71e6bcf2df6}</destination>
+		</relationship>
+	</object>
+</objects>
