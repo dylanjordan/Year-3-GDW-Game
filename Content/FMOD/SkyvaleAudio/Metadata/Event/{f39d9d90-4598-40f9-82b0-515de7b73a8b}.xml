@@ -99,7 +99,6 @@
 			<destination>{d4969d77-0ffe-4e77-b39b-d9e372e37e01}</destination>
 		</relationship>
 		<relationship name="sounds">
-			<destination>{e42ad025-c55b-480a-9ad7-3c503cfad5df}</destination>
 			<destination>{a5b8032f-b56e-4149-987b-8015c67c07ac}</destination>
 			<destination>{39454acf-f740-482a-b65b-c36c68e22af1}</destination>
 		</relationship>
@@ -132,11 +131,6 @@
 		<property name="amount">
 			<value>4.16666698</value>
 		</property>
-	</object>
-	<object class="SingleSound" id="{e42ad025-c55b-480a-9ad7-3c503cfad5df}">
-		<relationship name="audioFile">
-			<destination>{d10a13e4-22f1-4ba8-aa94-ab4ed94aca43}</destination>
-		</relationship>
 	</object>
 	<object class="SingleSound" id="{a5b8032f-b56e-4149-987b-8015c67c07ac}">
 		<relationship name="audioFile">
